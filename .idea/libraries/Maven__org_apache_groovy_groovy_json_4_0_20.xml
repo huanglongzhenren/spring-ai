@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.groovy:groovy-json:4.0.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/groovy/groovy-json/4.0.20/groovy-json-4.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/groovy/groovy-json/4.0.20/groovy-json-4.0.20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/groovy/groovy-json/4.0.20/groovy-json-4.0.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
