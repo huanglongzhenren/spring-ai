@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36562e81-c790-47fa-9df1-a43c5bd47322" name="Default Changelist" comment="" />
+    <list default="true" id="36562e81-c790-47fa-9df1-a43c5bd47322" name="Default Changelist" comment="时间：2024年6月29日09:28:46&#10;内容：spring AI&#10;提交人：xuchuan">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +84,7 @@
       <workItem from="1719624227890" duration="2299000" />
       <workItem from="1719627287208" duration="774000" />
       <workItem from="1719628585814" duration="469000" />
+      <workItem from="1719635386021" duration="1143000" />
     </task>
     <task id="LOCAL-00001" summary="时间：2024年6月29日09:28:46&#10;内容：spring AI&#10;提交人：xuchuan">
       <created>1719624648043</created>
@@ -111,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719628708422</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="时间：2024年6月29日09:28:46&#10;内容：spring AI&#10;提交人：xuchuan">
+      <created>1719635791210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719635791210</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
